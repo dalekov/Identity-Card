@@ -55,9 +55,3 @@ To customize this portfolio:
 2. Update the name and title in `index.html`
 3. Modify social media links to point to your profiles
 4. Adjust the gradient colors in `main.css` if desired
-
-## Contact
-- GitHub: [dalekov](https://github.com/dalekov)
-
-## License
-This project is open source and available under the [MIT License](LICENSE).
